@@ -36,5 +36,4 @@ label.place(relx=0.5, rely=0.3, anchor="center")
 button = tk.Button(root, text="Click for Wishes", font=("Helvetica", 14), fg="white", bg="#FFA500", command=show_message)
 button.place(relx=0.5, rely=0.7, anchor="center")
 
-# Run the main loop
 root.mainloop()
