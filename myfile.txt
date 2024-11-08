@@ -1,0 +1,3 @@
+this is a project to wish a happy diwali to anyone who runs the code
+this started as a joke when my non technical friends teased me to wish them happy diwali with my code and et voila i did that
+a very basic code using tkinter library
